@@ -1,0 +1,8 @@
+*.pyc
+*~
+__pycache__
+healthpoint
+db.sqlite3
+/static
+.DS_Store
+
